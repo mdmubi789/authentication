@@ -1,0 +1,11 @@
+.para h1{
+    font-size: x-large;
+    font-style: italic;
+    color: rgb(255, 0, 123);
+}
+
+.para p{
+    font-size: x-large;
+    font-style: italic;
+    color: blue;
+}
